@@ -162,8 +162,196 @@ SECRET_KEY = {
 $ docker-compose -f docker-compose.deploy.yml up --build -d
 ```
 # 📂Directory
-
-# 📖Info
+<details>
+<summary>Click</summary>
+<pre>
+<code>
+|-- backend
+|   |-- Pipfile
+|   |-- README.md
+|   |-- backend
+|   |   |-- Dockerfile
+|   |   |-- Pipfile
+|   |   |-- apps
+|   |   |   |-- __init__.py
+|   |   |   |-- admin.py
+|   |   |   |-- apps.py
+|   |   |   |-- chat_consumer.py
+|   |   |   |-- models.py
+|   |   |   |-- routing.py
+|   |   |   |-- serializers.py
+|   |   |   |-- tasks.py
+|   |   |   |-- tests.py
+|   |   |   |-- urls.py
+|   |   |   `-- views.py
+|   |   |-- config
+|   |   |   |-- __init__.py
+|   |   |   |-- asgi.py
+|   |   |   |-- celery.py
+|   |   |   |-- settings.py
+|   |   |   |-- urls.py
+|   |   |   `-- wsgi.py
+|   |   |-- diary
+|   |   |   |-- __init__.py
+|   |   |   |-- admin.py
+|   |   |   |-- apps.py
+|   |   |   |-- models.py
+|   |   |   |-- tasks.py
+|   |   |   |-- tests.py
+|   |   |   |-- urls.py
+|   |   |   |-- utils.py
+|   |   |   `-- views.py
+|   |   |-- main
+|   |   |   |-- __init__.py
+|   |   |   |-- admin.py
+|   |   |   |-- apps.py
+|   |   |   |-- models.py
+|   |   |   |-- tests.py
+|   |   |   |-- urls.py
+|   |   |   `-- views.py
+|   |   |-- manage.py
+|   |   |-- requirements.txt
+|   |   |-- storage.py
+|   |   |-- stt.py
+|   |   |-- tts.py
+|   |   `-- users
+|   |       |-- __init__.py
+|   |       |-- admin.py
+|   |       |-- apps.py
+|   |       |-- models.py
+|   |       |-- serializers.py
+|   |       |-- tests.py
+|   |       |-- urls.py
+|   |       `-- views.py
+|   `-- monitoring
+|       |-- grafana
+|       |   |-- Dockerfile
+|       |   |-- grafana.ini
+|       |   `-- provisioning
+|       |       |-- dashboards
+|       |       |   |-- Docker\ Prometheus\ Monitoring.json
+|       |       |   `-- dashboard.yml
+|       |       `-- datasources
+|       |           `-- datasource.yml
+|       `-- prometheus
+|           `-- prometheus.yml
+|
+|-- frontend
+|   |-- Dockerfile
+|   |-- index.html
+|   |-- package.json
+|   |-- public
+|   |   `-- mockServiceWorker.js
+|   |-- src
+|   |   |-- App.tsx
+|   |   |-- LoadingFallback.tsx
+|   |   |-- PrivateRoute.tsx
+|   |   |-- api
+|   |   |   |-- calender
+|   |   |   |   `-- calender.ts
+|   |   |   |-- config.ts
+|   |   |   `-- diary.ts
+|   |   |-- assets
+|   |   |   |-- SVG.tsx
+|   |   |   |-- img
+|   |   |   |   |-- 404.png
+|   |   |   |   |-- BlackMic.png
+|   |   |   |   |-- Chat_bg.png
+|   |   |   |   |-- Cover.png
+|   |   |   |   |-- DefaultBookCover.png
+|   |   |   |   |-- DefaultResultImage.png
+|   |   |   |   |-- Diary_Text.png
+|   |   |   |   |-- Diary_Text_P.png
+|   |   |   |   |-- Diary_bg.png
+|   |   |   |   |-- F5.png
+|   |   |   |   |-- HeartBubble.png
+|   |   |   |   |-- LoadingQuaka.png
+|   |   |   |   |-- LoginPage_p_bg.png
+|   |   |   |   |-- Login_bg.png
+|   |   |   |   |-- MainBG.png
+|   |   |   |   |-- Main_bg.png
+|   |   |   |   |-- Mic.png
+|   |   |   |   |-- QuitIcon.png
+|   |   |   |   |-- QuitIcon2.png
+|   |   |   |   |-- SpeakingQuakka.png
+|   |   |   |   |-- book.png
+|   |   |   |   |-- checkb.png
+|   |   |   |   |-- diaryRightSide.png
+|   |   |   |   |-- introP.png
+|   |   |   |   |-- mainP.png
+|   |   |   |   |-- mingcute_voice-fill.svg
+|   |   |   |   |-- t.png
+|   |   |   |   |-- \354\235\270\355\212\270\353\241\234\355\216\230\354\235\264\354\247\200.png
+|   |   |   |   `-- \354\277\274\354\271\264.png
+|   |   |   `-- lottie
+|   |   |       |-- Animation\ -\ 1704999772308.json
+|   |   |       |-- Load.json
+|   |   |       `-- Mic.json
+|   |   |-- components
+|   |   |   |-- calender
+|   |   |   |   |-- Calender.tsx
+|   |   |   |   `-- CalenderStyle.tsx
+|   |   |   |-- common
+|   |   |   |   |-- AudioRecorder.tsx
+|   |   |   |   |-- Btn.tsx
+|   |   |   |   |-- Camera.tsx
+|   |   |   |   |-- CharComponent.tsx
+|   |   |   |   |-- ChatHistoryInfo.tsx
+|   |   |   |   |-- ChatInfo.tsx
+|   |   |   |   |-- Chatting.tsx
+|   |   |   |   |-- ChattingResult.tsx
+|   |   |   |   |-- Diary.tsx
+|   |   |   |   |-- Face.tsx
+|   |   |   |   |-- LoginInput.tsx
+|   |   |   |   |-- MyMessage.tsx
+|   |   |   |   `-- OpponentMessage.tsx
+|   |   |   |-- gif
+|   |   |   |   |-- Loading.tsx
+|   |   |   |   |-- Mic.tsx
+|   |   |   |   `-- Voice.tsx
+|   |   |   `-- modal
+|   |   |       |-- CameraModal.tsx
+|   |   |       |-- ImageModal.tsx
+|   |   |       |-- LoadingModal.tsx
+|   |   |       `-- Modal.tsx
+|   |   |-- hooks
+|   |   |   `-- useInput.ts
+|   |   |-- main.tsx
+|   |   |-- mocks
+|   |   |   `-- servers.ts
+|   |   |-- pages
+|   |   |   |-- BookCover.tsx
+|   |   |   |-- ChatPage.tsx
+|   |   |   |-- DiaryPage.tsx
+|   |   |   |-- Forbidden.tsx
+|   |   |   |-- IntroPage.tsx
+|   |   |   |-- LogInPage.tsx
+|   |   |   |-- MainPage.tsx
+|   |   |   |-- Result.tsx
+|   |   |   `-- SignupPage.tsx
+|   |   |-- router.tsx
+|   |   |-- stores
+|   |   |   |-- chat.ts
+|   |   |   `-- toggle.ts
+|   |   |-- styles
+|   |   |   `-- GlobalStyle.ts
+|   |   |-- utils
+|   |   |   `-- cookie.ts
+|   |   `-- vite-env.d.ts
+|   |-- tsconfig.json
+|   |-- tsconfig.node.json
+|   |-- vite.config.ts
+|   `-- yarn.lock
+|-- init-letsencrypt.sh
+|-- docker-compose.deploy.yml
+|-- docker-compose.yml
+`-- nginx
+    |-- Dockerfile
+    |-- nginx.conf
+    `-- nginx.deploy.conf
+</code>
+</pre>
+</details>
 
 # 👨‍👩‍👧‍👦Members
 [윤주원](https://github.com/dleogh476)|[문성현](https://github.com/sunghyun0610)|[김가을](https://github.com/fallkim)|[박수연](https://github.com/suyeonnii)|[이지은](https://github.com/egg-silver)|[장정운](https://github.com/devwoon)|[진학범](https://github.com/oil-lamp-cat)|[최종민](https://github.com/jongmine)|
