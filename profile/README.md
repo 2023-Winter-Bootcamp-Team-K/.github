@@ -5,18 +5,17 @@
 # Medium
 🌎[Medium English.ver](https://medium.com/@sunghyunmoon9/voice-chatting-service-with-characters-%EC%BA%90%EB%A6%AD%ED%84%B0%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%EC%9D%8C%EC%84%B1%EC%B1%84%ED%8C%85-%EC%84%9C%EB%B9%84%EC%8A%A4-talk-taka-ea60f5fbbc91)
 
+🇰🇷[Medium Korean.ver]()
 
 # Demo
 Splash Screen|Home Page|
 -------------|---------|
 <img width="300" alt="Splash" src="">|<img width="300" alt="home" src="">|
 
-
-
-# 🖋️System Architecture
+# System Architecture
 <img src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/bb527848-17cc-48ab-b502-537e8e0525b8"> 
 
-# 🔧Tech Stack
+# Tech Stack
 <p align="center">
 <strong> Frontend <br></strong>
 <br>
@@ -74,7 +73,8 @@ Splash Screen|Home Page|
 <img src="https://img.shields.io/badge/pycharm-D9411E?style=for-the-badge&logo=pycharm&logoColor=white" alt="icon" />
 </p>
 
-# How To Run
+# DataBase
+<img width="800" alt="swagger(1)" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/cfe6446e-6916-4d79-aac0-01c47de536bd">
 
 
 # API
@@ -84,6 +84,8 @@ Splash Screen|Home Page|
 # Monitoring
 <img width="800" alt="monitoring(2)" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/18f8db4e-c1fa-4014-8807-5d8d5954e665">
 <img width="800" alt="monitoring(1)" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/6a2481fd-837a-4032-8702-4669205ae65b">
+
+# How To Run
 
 # Members
 [윤주원](https://github.com/dleogh476)|[문성현](https://github.com/sunghyun0610)|[김가을](https://github.com/fallkim)|[박수연](https://github.com/suyeonnii)|[이지은](https://github.com/egg-silver)|[장정운](https://github.com/devwoon)|[진학범](https://github.com/oil-lamp-cat)|[최종민](https://github.com/jongmine)|
