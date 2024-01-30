@@ -86,6 +86,83 @@ Splash Screen|Home Page|
 <img width="800" alt="monitoring(1)" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/6a2481fd-837a-4032-8702-4669205ae65b">
 
 # How To Run
+### 1. Clone Repository
+```bash
+$ git clone https://github.com/2023-Winter-Bootcamp-Team-K/talk-taka.git
+```
+### 2. Backend 환경변수 및 my_settings.py 설정
+
+#### talk-taka/.env 
+```bash
+# django
+SECRET_KEY=
+
+# mysql
+DB_USERNAME=
+DB_DATABASE=
+DB_USER_PASSWORD=
+DB_ROOT_PASSWORD=
+
+# openai
+OPENAI_API_KEY=
+
+# aws S3
+AWS_ACCESS_KEY_ID='
+AWS_SECRET_ACCESS_KEY=
+AWS_STORAGE_BUCKET_NAME=
+FILE_URL=
+
+# STT, TTS
+CLOVA_STT_ID=
+CLOVA_STT_SECRET=
+CLOVA_TTS_ID=
+CLOVA_TTS_SECRET=
+
+#CELERY 
+CELERY_BROKER_URL=
+CELERY_RESULT_BACKEND=
+CELERY_ACCEPT_CONTENT=
+CELERY_TASK_SERIALIZER=
+CELERY_RESULT_SERIALIZER=
+```
+
+#### talk-taka/backend/backend/config/my_settings.py
+```python3
+from pathlib import Path
+import os
+from dotenv import load_dotenv
+load_dotenv()
+
+BASE_DIR = Path(__file__).resolve().parent.parent
+
+
+DATABASES = {
+    'default': {
+        'ENGINE': ,
+        "NAME": ,
+        "USER": ,
+        "PASSWORD": ,
+        "HOST": ,
+        "PORT": ,
+        'OPTIONS': {
+                    'charset': 'utf8mb4',
+                },
+        "time-zone": "Asia/Seoul"
+    },
+}
+
+SECRET_KEY = {
+    
+}
+```
+
+### 3. docker-compose 실행
+
+#### talk-taka/
+```bash
+$ docker-compose -f docker-compose.deploy.yml up --build -d
+```
+
 
 # Members
 [윤주원](https://github.com/dleogh476)|[문성현](https://github.com/sunghyun0610)|[김가을](https://github.com/fallkim)|[박수연](https://github.com/suyeonnii)|[이지은](https://github.com/egg-silver)|[장정운](https://github.com/devwoon)|[진학범](https://github.com/oil-lamp-cat)|[최종민](https://github.com/jongmine)|
