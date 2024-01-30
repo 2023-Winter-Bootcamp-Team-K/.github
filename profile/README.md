@@ -1,9 +1,10 @@
 # Talk-Taka
-(img : 프로젝트를 대표하는 화면 또는 icon)
-<h4>아이들의 “오늘 하루 있었던 일”을 주제로 캐릭터와 음성채팅으로 대화를 나누며 하루를 돌아보고 기록해주는 서비스</h4>
+<h3>아이들의 “오늘 하루 있었던 일”을 주제로 캐릭터와 음성채팅으로 대화를 나누며 하루를 돌아보고 기록해주는 서비스</h3>
+<img width="800" alt="page" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/181ddff5-fb0a-4a82-b041-c3651f5b4ed4">
 
 # Medium
-🌎[Medium English.ver]()
+🌎[Medium English.ver](https://medium.com/@sunghyunmoon9/voice-chatting-service-with-characters-%EC%BA%90%EB%A6%AD%ED%84%B0%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%EC%9D%8C%EC%84%B1%EC%B1%84%ED%8C%85-%EC%84%9C%EB%B9%84%EC%8A%A4-talk-taka-ea60f5fbbc91)
+
 
 # Demo
 Splash Screen|Home Page|
@@ -16,7 +17,6 @@ Splash Screen|Home Page|
 <img src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/bb527848-17cc-48ab-b502-537e8e0525b8"> 
 
 # 🔧Tech Stack
-
 <p align="center">
 <strong> Frontend <br></strong>
 <br>
@@ -74,15 +74,16 @@ Splash Screen|Home Page|
 <img src="https://img.shields.io/badge/pycharm-D9411E?style=for-the-badge&logo=pycharm&logoColor=white" alt="icon" />
 </p>
 
+# How To Run
 
 
 # API
-<img width="1407" alt="swagger(1)" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/448e6ea8-e923-452f-9468-651b471bcada">
-<img width="1412" alt="swagger(2)" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/430a48c4-a8b9-4050-acf3-d5015c7f6592">
+<img width="800" alt="swagger(1)" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/448e6ea8-e923-452f-9468-651b471bcada">
+<img width="800" alt="swagger(2)" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/430a48c4-a8b9-4050-acf3-d5015c7f6592">
 
 # Monitoring
-<img width="1430" alt="monitoring(2)" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/18f8db4e-c1fa-4014-8807-5d8d5954e665">
-<img width="1435" alt="monitoring(1)" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/6a2481fd-837a-4032-8702-4669205ae65b">
+<img width="800" alt="monitoring(2)" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/18f8db4e-c1fa-4014-8807-5d8d5954e665">
+<img width="800" alt="monitoring(1)" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/6a2481fd-837a-4032-8702-4669205ae65b">
 
 # Members
 [윤주원](https://github.com/dleogh476)|[문성현](https://github.com/sunghyun0610)|[김가을](https://github.com/fallkim)|[박수연](https://github.com/suyeonnii)|[이지은](https://github.com/egg-silver)|[장정운](https://github.com/devwoon)|[진학범](https://github.com/oil-lamp-cat)|[최종민](https://github.com/jongmine)|
