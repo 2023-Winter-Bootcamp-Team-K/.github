@@ -13,7 +13,7 @@ Splash Screen|Home Page|
 
 
 # 🖋️System Architecture
-
+<img src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/bb527848-17cc-48ab-b502-537e8e0525b8"> 
 
 # 🔧Tech Stack
 
@@ -41,7 +41,7 @@ Splash Screen|Home Page|
 </p>
 
 <p align="center">
-<strong> DB <br></strong>
+<strong> Storage <br></strong>
 <br>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Amazon S3-DD344C?style=for-the-badge&logo=Amazon S3&logoColor=white"> <img src="https://img.shields.io/badge/amazonrds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
 </p>
@@ -49,19 +49,29 @@ Splash Screen|Home Page|
 <p align="center">
 <strong> Monitoring <br></strong>
 <br>
-<img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"> <img src="https://img.shields.io/badge/elasticstack-005571?style=for-the-badge&logo=elasticstack&logoColor=white"> <img src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">   <img src="https://img.shields.io/badge/node_exporter-E43526?style=for-the-badge&logoColor=black" >
+<img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"> 
+<img src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">   
+<img src="https://img.shields.io/badge/node_exporter-E43526?style=for-the-badge&logoColor=black">
 </p>
 
 <p align="center">
 <strong> DevOps <br></strong>
 <br>
-<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=for-the-badge&logo=Amazon AWS&logoColor=white"> <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"> <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" alt="icon" /> 
+<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> 
+<img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">  
+<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"> 
 </p>
 
 <p align="center">
 <strong> Tool <br></strong>
 <br>
-<img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white">  <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/figma-5B0BB5?style=for-the-badge&logo=figma&logoColor=white" alt="icon" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="icon" />  <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="icon" /> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="icon" /> <img src="https://img.shields.io/badge/pycharm-D9411E?style=for-the-badge&logo=pycharm&logoColor=white" alt="icon" />
+<img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white">  
+<img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> 
+<img src="https://img.shields.io/badge/figma-5B0BB5?style=for-the-badge&logo=figma&logoColor=white" alt="icon" /> 
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="icon" />  
+<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="icon" /> 
+<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="icon" /> 
+<img src="https://img.shields.io/badge/pycharm-D9411E?style=for-the-badge&logo=pycharm&logoColor=white" alt="icon" />
 </p>
 
 
@@ -70,8 +80,12 @@ Splash Screen|Home Page|
 <img width="1407" alt="swagger(1)" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/448e6ea8-e923-452f-9468-651b471bcada">
 <img width="1412" alt="swagger(2)" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/430a48c4-a8b9-4050-acf3-d5015c7f6592">
 
+# Monitoring
+<img width="1430" alt="monitoring(2)" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/18f8db4e-c1fa-4014-8807-5d8d5954e665">
+<img width="1435" alt="monitoring(1)" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/6a2481fd-837a-4032-8702-4669205ae65b">
+
 # Members
 [윤주원](https://github.com/dleogh476)|[문성현](https://github.com/sunghyun0610)|[김가을](https://github.com/fallkim)|[박수연](https://github.com/suyeonnii)|[이지은](https://github.com/egg-silver)|[장정운](https://github.com/devwoon)|[진학범](https://github.com/oil-lamp-cat)|[최종민](https://github.com/jongmine)|
 ------|------|------|--------------------------------------|------|-----|------|-----|
-![윤주원](https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/bdbf9b32-5b28-4c9b-9cfe-45fd5b7e21ca) | ![문성현]() | ![김가을]() | ![박수연]() | ![이지은]() | ![장정운]() | ![최종민]() | ![진학범]() |  
+<img width="300" alt="윤주원" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/73ad1ba0-39a1-4d23-a829-418399672241"> | <img width="300" alt="문성현" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/50b40fa7-cbd1-488b-b4ab-e439b6205815"> | <img width="300" alt="김가을" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/f786596c-4364-4a0b-af1c-e0d7bb5edff1">| <img width="300" alt="박수연" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/a9fff783-e713-46d2-847b-0c46e2e6e0f2"> | <img width="300" alt="이지은" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/454c81ec-b3fc-4a08-b8a0-8123f1e4cb1c"> | <img width="300" alt="장정운" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/3dbc2f9a-9645-43bc-86ab-8341a2d8dcd2"> | <img width="300" alt="진학범" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/e34c71c9-1bd3-4056-8010-18f4c5deaec4"> | <img width="300" alt="최종민" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/276c85a6-5b95-4b2a-a38a-092038f0f3e1"> |  
 Leader, Back-end, DevOps|Back-end, DevOps|Back-end, DevOps|Back-end, DevOps|Front-end|Front-end|Front-end|Front-end|
