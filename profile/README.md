@@ -1,20 +1,20 @@
-# Talk-Taka
+# 🐣Talk-Taka
 <h3>아이들의 “오늘 하루 있었던 일”을 주제로 캐릭터와 음성채팅으로 대화를 나누며 하루를 돌아보고 기록해주는 서비스</h3>
 <img width="800" alt="page" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/181ddff5-fb0a-4a82-b041-c3651f5b4ed4">
 
-# Medium
-- [🌎Medium English.ver](https://medium.com/@sunghyunmoon9/voice-chatting-service-with-characters-%EC%BA%90%EB%A6%AD%ED%84%B0%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%EC%9D%8C%EC%84%B1%EC%B1%84%ED%8C%85-%EC%84%9C%EB%B9%84%EC%8A%A4-talk-taka-ea60f5fbbc91) <br>
-- [🇰🇷Medium Korean.ver]()
+# 🔗Medium
+- [It's English.ver!](https://medium.com/@sunghyunmoon9/voice-chatting-service-with-characters-%EC%BA%90%EB%A6%AD%ED%84%B0%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%EC%9D%8C%EC%84%B1%EC%B1%84%ED%8C%85-%EC%84%9C%EB%B9%84%EC%8A%A4-talk-taka-ea60f5fbbc91) <br>
+- [한국어 버전 입니다!]()
 
-# Demo
+# 🎥Demo
 Splash Screen|Home Page|
 -------------|---------|
 <img width="300" alt="Splash" src="">|<img width="300" alt="home" src="">|
 
-# System Architecture
+# 🖥️System Architecture
 <img src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/bb527848-17cc-48ab-b502-537e8e0525b8"> 
 
-# Tech Stack
+# 🛠️Tech Stack
 <p align="center">
 <strong> Frontend <br></strong>
 <br>
@@ -72,19 +72,19 @@ Splash Screen|Home Page|
 <img src="https://img.shields.io/badge/pycharm-D9411E?style=for-the-badge&logo=pycharm&logoColor=white" alt="icon" />
 </p>
 
-# DataBase
+# 🗄️DataBase
 <img width="800" alt="swagger(1)" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/cfe6446e-6916-4d79-aac0-01c47de536bd">
 
 
-# API
+# 📤API
 <img width="800" alt="swagger(1)" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/448e6ea8-e923-452f-9468-651b471bcada">
 <img width="800" alt="swagger(2)" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/430a48c4-a8b9-4050-acf3-d5015c7f6592">
 
-# Monitoring
+# 📺Monitoring
 <img width="800" alt="monitoring(2)" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/18f8db4e-c1fa-4014-8807-5d8d5954e665">
 <img width="800" alt="monitoring(1)" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/6a2481fd-837a-4032-8702-4669205ae65b">
 
-# How To Run
+# 🧑🏼‍💻How To Start
 ### 1. Clone Repository
 ```bash
 $ git clone https://github.com/2023-Winter-Bootcamp-Team-K/talk-taka.git
@@ -161,9 +161,11 @@ SECRET_KEY = {
 ```bash
 $ docker-compose -f docker-compose.deploy.yml up --build -d
 ```
+# 📂Directory
 
+# 📖Info
 
-# Members
+# 👨‍👩‍👧‍👦Members
 [윤주원](https://github.com/dleogh476)|[문성현](https://github.com/sunghyun0610)|[김가을](https://github.com/fallkim)|[박수연](https://github.com/suyeonnii)|[이지은](https://github.com/egg-silver)|[장정운](https://github.com/devwoon)|[진학범](https://github.com/oil-lamp-cat)|[최종민](https://github.com/jongmine)|
 ------|------|------|--------------------------------------|------|-----|------|-----|
 <img width="300" alt="윤주원" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/73ad1ba0-39a1-4d23-a829-418399672241"> | <img width="300" alt="문성현" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/50b40fa7-cbd1-488b-b4ab-e439b6205815"> | <img width="300" alt="김가을" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/f786596c-4364-4a0b-af1c-e0d7bb5edff1">| <img width="300" alt="박수연" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/a9fff783-e713-46d2-847b-0c46e2e6e0f2"> | <img width="300" alt="이지은" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/454c81ec-b3fc-4a08-b8a0-8123f1e4cb1c"> | <img width="300" alt="장정운" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/3dbc2f9a-9645-43bc-86ab-8341a2d8dcd2"> | <img width="300" alt="진학범" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/e34c71c9-1bd3-4056-8010-18f4c5deaec4"> | <img width="300" alt="최종민" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/276c85a6-5b95-4b2a-a38a-092038f0f3e1"> |  
