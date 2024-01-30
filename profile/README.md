@@ -3,9 +3,8 @@
 <img width="800" alt="page" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/181ddff5-fb0a-4a82-b041-c3651f5b4ed4">
 
 # Medium
-🌎[Medium English.ver](https://medium.com/@sunghyunmoon9/voice-chatting-service-with-characters-%EC%BA%90%EB%A6%AD%ED%84%B0%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%EC%9D%8C%EC%84%B1%EC%B1%84%ED%8C%85-%EC%84%9C%EB%B9%84%EC%8A%A4-talk-taka-ea60f5fbbc91)
-
-🇰🇷[Medium Korean.ver]()
+- [🌎Medium English.ver](https://medium.com/@sunghyunmoon9/voice-chatting-service-with-characters-%EC%BA%90%EB%A6%AD%ED%84%B0%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%EC%9D%8C%EC%84%B1%EC%B1%84%ED%8C%85-%EC%84%9C%EB%B9%84%EC%8A%A4-talk-taka-ea60f5fbbc91) <br>
+- [🇰🇷Medium Korean.ver]()
 
 # Demo
 Splash Screen|Home Page|
