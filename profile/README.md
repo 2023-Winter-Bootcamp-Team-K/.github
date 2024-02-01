@@ -9,11 +9,11 @@
 # 🎥Demo
 |**Sign up and Login**|**Main Page**|
 |:-------------------:|:---------:|
-|<img width="477" alt="Sign up and Login" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/105585664/6b7a4c27-fb53-46b9-9d21-bc619dc2572f">|<img width="477" alt="Main" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/105585664/45bce0c6-da3d-473b-9be8-51938a7222f9">|
+|<img width="450" alt="Sign up and Login" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/105585664/6b7a4c27-fb53-46b9-9d21-bc619dc2572f">|<img width="450" alt="Main" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/105585664/45bce0c6-da3d-473b-9be8-51938a7222f9">|
 |**Real-time Conversation with Character**|**Photo Capture**|
-|<img width="477" alt="Conversation" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/105585664/f3cbe360-7947-4514-a76b-15544fb056b4">|<img width="477" alt="Photo Capture" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/105585664/33bdda9b-d64e-4520-b90a-9e43c2e03be1">|
+|<img width="450" alt="Conversation" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/105585664/f3cbe360-7947-4514-a76b-15544fb056b4">|<img width="450" alt="Photo Capture" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/105585664/33bdda9b-d64e-4520-b90a-9e43c2e03be1">|
 |**Generating Illustrated Diary Based on Conversation**|**Viewing Past Diaries**|
-|<img width="477" alt="Diary" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/105585664/d1ac0d7b-4de0-4313-ab88-aa7bd33f8437">|<img width="477" alt="View Past" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/105585664/e237a860-aeab-4fdf-9e9f-fc6c81ba76b1">|
+|<img width="450" alt="Diary" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/105585664/d1ac0d7b-4de0-4313-ab88-aa7bd33f8437">|<img width="450" alt="View Past" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/105585664/e237a860-aeab-4fdf-9e9f-fc6c81ba76b1">|
 
 # 🖥️System Architecture
 <img src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/bb527848-17cc-48ab-b502-537e8e0525b8"> 
