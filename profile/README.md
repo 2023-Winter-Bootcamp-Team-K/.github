@@ -4,7 +4,6 @@
 
 # 🔗Medium
 - [It's English.ver!](https://medium.com/@sunghyunmoon9/voice-chatting-service-with-characters-%EC%BA%90%EB%A6%AD%ED%84%B0%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%EC%9D%8C%EC%84%B1%EC%B1%84%ED%8C%85-%EC%84%9C%EB%B9%84%EC%8A%A4-talk-taka-ea60f5fbbc91) <br>
-- [한국어 버전 입니다!]()
 
 # 🎥Demo
 |**Sign up and Login**|**Main Page**|
