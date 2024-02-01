@@ -9,7 +9,7 @@
 # 🎥Demo
 |**Sign up and Login**|**Main Page**|
 |:----------------------:|:---------:|
-|<img width="300" alt="Sign up and Login" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/72187869/239adca5-47ef-41d6-b696-46a9d9d8cedf">|<img width="300" alt="Main" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/72187869/a5f1f5a4-8b7b-46e2-b4ce-610602cb08d0">|
+|<img width="300" alt="Sign up and Login" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/72187869/239adca5-47ef-41d6-b696-46a9d9d8cedf">|<img width="300" alt="Main" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/72187869/a5f1f5a4-8b7b-46e2-b4ce-610602cb08d0](https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/72187869/c27ee150-6b40-40c2-9834-ef552a01487f)">|
 |**Real-time Conversation with Character**|**Photo Capture**|
 |<img width="300" alt="Conversation" src="">|<img width="300" alt="Photo Capture" src="">|
 |**Generating Illustrated Diary Based on Conversation**|**Viewing Past Diaries**|
